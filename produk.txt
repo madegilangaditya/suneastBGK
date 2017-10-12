@@ -1,0 +1,26 @@
+1. Type SE-BR Bakery Equipment
+	merk, type, dimension, power, voltage
+
+2. Type C Induction Cooker
+	merk, type, dimension, voltage, frequency, power, temperature
+
+3. Type SE- Gas Range
+	merk, type, dimension, blower, BTU, Weight
+
+4. Type JDM- Gas Range
+	merk, description, type, dimension, power, voltage, frequency
+
+5. Type SE-P Gas Range
+	merk, desciption, type, dimension, Gas BTU/HR, weight
+
+6. Type SE-2 Middle Kitchen
+	merk, description, type
+
+7. Type BPLOPP3B Middle Kitchen
+	merk, description, type, dimension, weight
+
+8. Type SE-W Middle Kitchen
+	merk, description, type, dimension, electrical, recovery perminute, rapid draw off
+
+9. Type Optional Trolley Middle Kitchen
+	merk, description	
